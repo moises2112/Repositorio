@@ -2,7 +2,7 @@ echo "# RepositorioUm" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
-git remote add origin https://github.com/moises2112/RepositorioUm.git
+git remote add origin https://github.com/moises2112/Repositorio.git
 git push -u origin master
 
 2- git config --global user.name "NOME"
