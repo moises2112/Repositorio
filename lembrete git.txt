@@ -16,3 +16,5 @@ rm -rf .git
 git config --system core.longpaths true
 
 git config --global core.autocrlf false
+
+site para download de pasta do git:http://kinolien.github.io/gitzip/
